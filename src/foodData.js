@@ -2,7 +2,7 @@ import pastaImg from './images/penne-pasta.jpg';
 import meatImg from './images/meat-soup.jpg';
 import spaghettiImg from './images/spaghetti.jpg';
 import soupImg from './images/soup-greens.jpg';
-import avocadoImg from './images/avocado.jpeg';
+import avocadoImg from './images/avocado.jpg';
 import kebabImg from './images/kebab.jpg';
 import plovImg from './images/plov.jpg';
 import shaurmaImg from './images/shaurma.jpg';
